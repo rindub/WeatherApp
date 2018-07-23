@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather">Weather</string>
+    <string name="youtube">YouTube</string>
+    <string name="todayWeather">http://api.openweathermap.org/data/2.5/weather?q=</string>
+    <string name="query"><![CDATA[&appid=]]></string>
+    <string name="cityNameIntent">cityNameIntent</string>
+    <string name="youtubeSearchIntent">youtubeSearchIntent</string>
+    <string name="noInternetConnectionTitle">No Internet Connection</string>
+    <string name="noInternetConnectionMessage">You need to have Mobile Data or wifi to use this app</string>
+    <string name="youtubeSearch"><![CDATA[https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=1&q=]]></string>
+    <string name="queryYoutube"><![CDATA[&key=]]></string>
+    <string name="forecastWeather">http://api.openweathermap.org/data/2.5/forecast?q=</string>
+    <string name="today">Today</string>
+    <string name="day_temperature">Day temperature</string>
+    <string name="night_temperature">Night temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="description">Description</string>
+    <string name="main">Main</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="clouds">Clouds</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="dayAfterTomorrow">Day after tomorrow</string>
+</resources>
